@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions create a matrix with a cacheable inverse
+## Use the makeCacheMatrix to return a cacheable matrix and then use
+## cacheSolve to compute the inverse and cache it or return the cached inverse
 
 ## Write a short comment describing this function
 
